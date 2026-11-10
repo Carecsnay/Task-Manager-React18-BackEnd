@@ -35,7 +35,7 @@ Certifique-se de ter o **Node.js** (versão 16 ou superior) instalado em sua má
 1. Clone este repositório:
 
    ```
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/Carecsnay/Task-Manager-React18-BackEnd
 
    ```
 
